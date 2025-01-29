@@ -1,9 +1,9 @@
 # README
-coscooter-diagnostics-tool
+coscoot-diagnostics-tool
 
 ### General description
 
-* This is the co-scooter vehicle diagnostics tool repository
+* This is the co-scoot diagnostics repository
 
 ### Installation guidelines
 
@@ -11,13 +11,12 @@ coscooter-diagnostics-tool
 
 ### Usage description
 
-* Compatible with co-scooter vehicles
-* Consult with COMODULE firmware team if not sure how to use
+* Consult with User if not sure how to use
 
 ### Support contacts
 
-* Firmware engineers at COMODULE
+* Current user
 
 ### Responsible
 
-* COMODULE firmware team lead engineer
+* Current user
