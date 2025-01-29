@@ -1,0 +1,8 @@
+PyQt5~=5.15.4
+pyserial~=3.4
+PyQt5-stubs
+pyuic5-tool
+python-can~=3.3.4
+requests
+crcmod
+pyqtdarktheme
