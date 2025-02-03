@@ -1,0 +1,28 @@
+* {
+    font-family: monospace, Geneva, Tahoma, sans-serif;
+}
+body {
+    font-family: Monospaced, Geneva, Tahoma, sans-serif;
+
+}
+.header {
+    text-align: center;
+}
+
+#head-container {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    margin: 10px;
+}
+
+.component {
+    margin: auto;
+    font-weight: normal;
+    padding: 10px;
+    font-size: 20px;
+    justify-content: center;
+    background-color: lightgray;
+    width: 200px;
+}
+
